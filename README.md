@@ -2,7 +2,7 @@
 
 A Streamlit-powered app and Python library to generate a split-circle double-wave logo (suggestive of ocean waves and DNA) with real-time, interactive controls.
 
-![Ocean BioMetrics Logo](./output_logos/logo1.svg)
+![Ocean BioMetrics Logo](./output_logos/logo1.png)
 
 
 ---
