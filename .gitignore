@@ -1,0 +1,25 @@
+# Byte‐compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit-specific
+.streamlit/
+
+# Environment variables
+.env
+.venv/
+env/
+
+# SVG/PNG outputs (if you don’t want to track generated images)
+outputs/
+#*.svg
+#*.png

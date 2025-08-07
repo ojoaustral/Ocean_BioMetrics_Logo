@@ -1,0 +1,22 @@
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+The person who associated a work with this deed has dedicated the work to the public domain by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+
+In no event will the licensors be liable to you for any damages arising from your use of the work, to the fullest extent permitted by applicable law.
+
+Statement of Intent
+-------------------
+
+The person who has associated a work with this deed (the “dedicator”) hereby affirms their wish to dedicate the work to the public domain under the CC0 Public Domain Dedication. The dedicator makes this dedication for the benefit of the public at large and to the detriment of the dedicator’s heirs and successors, fully relinquishing all of their rights in the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+
+Waiver
+------
+
+To the extent possible under law, the dedicator waives all copyright and related or neighboring rights to the work.
+
+Public Domain Mark
+------------------
+
+This work is released into the public domain under the CC0 Public Domain Dedication. You can view a summary of this license at https://creativecommons.org/publicdomain/zero/1.0/ and the full legal code at https://creativecommons.org/publicdomain/zero/1.0/legalcode
