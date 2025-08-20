@@ -65,6 +65,9 @@ To generate a logo with custom parameters:
 python src/logo_gen_stand_alone_script.py --help
 
 python src/logo_gen_stand_alone_script.py logo.svg --diameter 800 --fg1 "#C4EF87" --fg2 "#63C5DA" --bg "#27374D"
+
+python src/logo_gen_stand_alone_script.py Nunito-Regular_side-by-side_undotted_color_outline.svg --format SVG --with_text side-by-side --bg "none"
+
 ```
 
 ### 3. Run the interactive Streamlit app
