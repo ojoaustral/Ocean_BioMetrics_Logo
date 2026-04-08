@@ -34,11 +34,11 @@ def generate_gif(output_gif: str,
     # Generate frames
     for i in range(frames):
         t = i / frames
-        #wa1 = amplitude * math.sin(2 * math.pi * t)
-        #wa2 = -amplitude * math.sin(2 * math.pi * t)
+        wa1 = amplitude * math.sin(2 * math.pi * t)
+        wa2 = -amplitude * math.sin(2 * math.pi * t)
         shift_px = i * step_px
-        wa1 = shift_px / diameter   # convert px → fraction of diameter
-        wa2 = shift_px / diameter
+        #wa1 = shift_px / diameter   # convert px → fraction of diameter
+        #wa2 = shift_px / diameter
         fn = os.path.join(frame_dir, f"frame_{i:04d}.png")
 
         create_logo(
@@ -73,7 +73,7 @@ def generate_gif(output_gif: str,
 
 if __name__ == "__main__":
     # Minimal default run; adjust as needed
-    generate_gif(output_gif="animatedlogo2.gif", 
+    generate_gif(output_gif="animatedlogo3.gif", 
                  frames=200, 
                  duration=1, # doesn't work 
                  amplitude=0.05, 
